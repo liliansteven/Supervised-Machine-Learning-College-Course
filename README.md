@@ -11,7 +11,7 @@ This's my solution to All Assignment and Lab tasks in the Supervised Learning co
    3. Assignment 3 : implement one hot vector and dynamic Neural Network from scratch.
 
 
-2. Labs :-
+2. **Labs :-**
     1. Lab 1 : Just revision on Python
 
     2. Lab 2 : Linear Regression and Loss/Cost functions in regression problems
