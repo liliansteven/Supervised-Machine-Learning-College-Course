@@ -1,0 +1,1 @@
+you can find my Solution in more detailed [Here](https://github.com/liliansteven/Implementing-the-Perceptron-algorithm-and-Adaline-algorithm-from-scratch).

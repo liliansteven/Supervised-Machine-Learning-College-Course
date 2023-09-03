@@ -1,0 +1,1 @@
+you can find my Solution in more detailed [Here](https://github.com/liliansteven/Implementing-the-K-fold-cross-validation-method-with-Logistic-Regression-from-scratch-).

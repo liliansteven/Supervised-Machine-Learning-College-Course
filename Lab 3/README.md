@@ -1,0 +1,1 @@
+you can find my Solution in more detailed [Here](https://github.com/liliansteven/Applying-Linear-regression-with-gradient-descent-and-MSE-loss-function-from-scratch).
